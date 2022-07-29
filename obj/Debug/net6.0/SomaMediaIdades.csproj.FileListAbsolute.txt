@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\bin\Debug\net6.0\SomaMediaIdades.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\bin\Debug\net6.0\SomaMediaIdades.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\bin\Debug\net6.0\SomaMediaIdades.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\bin\Debug\net6.0\SomaMediaIdades.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\bin\Debug\net6.0\SomaMediaIdades.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\obj\Debug\net6.0\SomaMediaIdades.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\obj\Debug\net6.0\SomaMediaIdades.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\obj\Debug\net6.0\SomaMediaIdades.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\obj\Debug\net6.0\SomaMediaIdades.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\obj\Debug\net6.0\SomaMediaIdades.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\obj\Debug\net6.0\SomaMediaIdades.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\obj\Debug\net6.0\refint\SomaMediaIdades.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\obj\Debug\net6.0\SomaMediaIdades.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\obj\Debug\net6.0\SomaMediaIdades.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomaMediaIdades\obj\Debug\net6.0\ref\SomaMediaIdades.dll
